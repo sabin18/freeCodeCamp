@@ -7,7 +7,7 @@ import {style} from './ForumStyle'
 const ForumTopic = ({index,topic, getUserFromID}) => {
     return (
       <div style={style.ForumTopic} className="forum-topic">
-        <div style={style.Rank ,style.TopicField} className="rank">{index}</div>
+        <div style={style.Rank,style.TopicField} className="rank">{index}</div>
         <div style={style.Title,style.TopicField} className="topic-title"><a style={style.Link} href={`https://forum.freecodecamp.org/t/${topic.slug}`} target="_blank">{topic.title}</a></div>
         <div style={style.Posters} className="posters">
           <div style={style.Avatar} className="avatar">
