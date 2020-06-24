@@ -1,8 +1,8 @@
 # freeCodeCamp Forum Homepage
 ## Learn More
 #### screenshot
-![Screenshot (1)](https://user-images.githubusercontent.com/47029978/83966181-fec51880-a8b8-11ea-8fed-2e881cc38e61.png)
-![Screenshot (2)](https://user-images.githubusercontent.com/47029978/83966179-fb319180-a8b8-11ea-81ec-c494444d5722.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/47029978/85599336-b5145600-b64c-11ea-939d-aac3386b5c5e.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/47029978/85599353-b6de1980-b64c-11ea-977e-fe47a3d56747.png)
 ## Available Scripts
 
 In the project directory, you can run:
