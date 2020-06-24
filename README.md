@@ -43,6 +43,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ![Screenshot (1)](https://user-images.githubusercontent.com/47029978/83966181-fec51880-a8b8-11ea-8fed-2e881cc38e61.png)
 
 
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
